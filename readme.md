@@ -1,7 +1,7 @@
 # Lucia Pinilla
 ## Developer
 Deploy https://luciapinillag.github.io/cv-luciapinilla/
-fork 1
-fork 2
-commit 1
-commit 2
+fork: github.com/luciapinillag/analizjavi.github.io
+fork: https://github.com/luciapinillag/vriquelmefe.github.io
+commit : https://github.com/luciapinillag/cvana
+commit : https://github.com/luciapinillag/cv-vanessa
